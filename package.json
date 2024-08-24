@@ -1,0 +1,12 @@
+{
+  "name": "timelog-server",
+  "version": "1.0.0",
+  "description": "This will be a server for TimeLog micro saas",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "timelog",
+  "license": "ISC"
+}
